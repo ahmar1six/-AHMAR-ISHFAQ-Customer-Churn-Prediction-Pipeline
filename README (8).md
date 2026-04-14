@@ -1,4 +1,4 @@
-# Telco-Customer-Churn-Pipeline
+#  Telco-Customer-Churn-Pipeline
 End-to-End Machine Learning Pipeline for predicting customer churn using Logistic Regression and Random Forest with GridSearchCV hyperparameter tuning and production-ready pipeline export.
 
 
